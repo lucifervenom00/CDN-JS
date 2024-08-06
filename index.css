@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+  }
+:root {
+    --primary: #163c3d;
+    --paragraph-gray: #535b53;
+    --primary-light: #e2eddf;
+    --dark-grey: #475467;
+    --white: white;
+  }
+  a{
+    text-decoration: none;
+  }
+  
