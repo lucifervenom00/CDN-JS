@@ -21,6 +21,6 @@
   .custom-margin{
     margin:var(--margin);
   }
-.hello{
+p{
 font-size:25px;
 }
