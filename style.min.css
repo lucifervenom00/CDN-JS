@@ -9,8 +9,16 @@
     --primary-light: #e2eddf;
     --dark-grey: #475467;
     --white: white;
+    --padding:attr(data-padding);
+    --margin:attr(data-margin);
   }
   a{
     text-decoration: none;
+  }
+  .custom-padding{
+    padding: var(--padding);
+  }
+  .custom-margin{
+    margin:var(--margin);
   }
   
